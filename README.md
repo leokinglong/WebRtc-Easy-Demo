@@ -1,4 +1,5 @@
 # WebRtc-Easy-Demo
+实现最简单的WebRtc端到端demo，包含客户端和服务器
 WebRtc Demo ,include client and server
 
 # 使用方法
